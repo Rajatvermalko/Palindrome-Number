@@ -64,7 +64,9 @@ h2 {
   margin: auto;
   display: block;
 }
-
+.button:hover{
+  background-color: white;
+}
 #result {
   font-size: x-large;
   margin: 2rem 0;
